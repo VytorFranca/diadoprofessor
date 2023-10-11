@@ -28,7 +28,6 @@ document.addEventListener("DOMContentLoaded", function () {
        "Que são as alegrias de hoje" +
        "E que amanhã serão" +
        "O futuro do nosso querido" +
-       "Brasil!" +    
-   });
+       "Brasil!" +  
+    });
 });
-
