@@ -3,16 +3,31 @@ document.addEventListener("DOMContentLoaded", function () {
     var mostrarMensagemBtn = document.getElementById("mostrarMensagem");
 
     mostrarMensagemBtn.addEventListener("click", function () {
-        mensagem.innerHTML = "Queridos professores, hoje é o dia de celebrar vocês, " +
-        "os verdadeiros heróis que moldam mentes e inspiram sonhos. " +
-        "Em cada sala de aula, vocês desempenham um papel vital na formação do futuro. " +
-        "Seu comprometimento, paixão e dedicação são admiráveis e dignos de reconhecimento. " +
-        "Vocês não apenas compartilham conhecimento, mas também cultivam valores, orientam e apoiam os sonhos de seus alunos. " +
-        "Com paciência infinita, vocês transformam desafios em oportunidades de aprendizado e capacitam os jovens a serem cidadãos responsáveis e pensadores críticos. " +
-        "Neste Dia dos Professores, quero expressar minha mais profunda gratidão por tudo o que vocês fazem. " +
-        "Vocês são faróis de luz na jornada educacional de todos nós, iluminando o caminho com sabedoria e compreensão. " +
-        "Obrigado por inspirarem, orientarem e ajudarem a construir um futuro melhor para todos. " +
-        "Feliz Dia dos Professores!";
-    });
+        mensagem.innerHTML = "Parabéns, professores" +
+
+       "Papel e canetas na mão" +
+       "Mas antes de tudo" +
+       "Muito amor no coração" +
+       "Vai começar a explicação" +
+       "Por favor, prestem a atenção" +
+       "Primeiro vou passar a lição" +
+       "Façam, mas sem obrigação" +
+       "É apenas um dever" +
+       "Onde nós vamos juntos aprender" +
+       "Porque professor sou eu" +
+       "E também pode ser você" +
+       "Alunos, valorizem este profissional" +
+       "Que tanto se dá por nós" +
+       "Usando e abusando da voz" +
+       "Dedicando-se do início ao final" +
+       "Parabéns, profissionais" +
+       "Da tão importante educação," +
+       "Formadores de homens," +
+       "Meninos e meninas," +
+       "Dos mais velhos ao público infantil," +
+       "Que são as alegrias de hoje" +
+       "E que amanhã serão" +
+       "O futuro do nosso querido" +
+       "Brasil!" +    });
 });
 
